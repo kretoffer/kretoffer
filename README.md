@@ -1,5 +1,5 @@
 # About Me:
-I'm a fullstack developer. My GitHub repositories showcase my works. I am currently working on an open sourse game engine [bloxoff](https://github.com/kretoffer/bloxoff-engine)
+I'm a fullstack developer. My GitHub repositories showcase my works. <!-- I am currently working on an open sourse game engine [bloxoff](https://github.com/kretoffer/bloxoff-engine) -->
 
 
 # Tech Stack:
