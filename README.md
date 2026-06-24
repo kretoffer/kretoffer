@@ -17,4 +17,4 @@ I'm a fullstack developer. My GitHub repositories showcase my works. <!-- I am c
 # Repositories
 [![Most Starred Repositories](https://github-widgets.netlify.app/api/v1/most-starred.svg?userName=kretoffer&title=Most+starred&theme=monochrome)](https://github.com/kretoffer?tab=repositories)
 ## Now working on
-[![Repository Card](https://github-widgets.netlify.app/api/v1/repository-card.svg?userName=kretoffer&repoName=ndtp_assistant_bot&theme=monochrome)](https://github.com/kretoffer/ndtp_assistant_bot)
+[![Repository Card](https://github-widgets.netlify.app/api/v1/repository-card.svg?userName=Escape-From-NDTB&repoName=EscapeFromNDTB-Game&theme=monochrome)](https://github.com/Escape-From-NDTB/EscapeFromNDTB-Game)
