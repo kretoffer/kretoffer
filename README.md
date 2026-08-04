@@ -5,6 +5,7 @@ I'm a fullstack developer. My GitHub repositories showcase my works. <!-- I am c
 [![Stack Overflow на русском](https://img.shields.io/badge/Stack%20Overflow%20на%20русском-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://ru.stackoverflow.com/users/600766/kretoffer?tab=reputation)
 [![Habr](https://img.shields.io/badge/Habr-5488A3?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/kretoffer/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/kretoffer)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kretoffer/)
 
 # Tech Stack
 ![Skill Table](https://github-widgets.netlify.app/api/v1/skill-table.svg?skills=--Programming+Languages--%7Cpython%7Cjavascript%7CBash%3Agnubash%7Cdart%7CHTML%3Ahtml5%7Ccss%7Crust%7C--Databases--%7Cmysql%7Cpostgresql%7Cmongodb%7C--Frameworks--%7Creact%7Cunity%7Cfastapi%7Cflutter&title=My+Skills&animationDuration=3&theme=monochrome)
